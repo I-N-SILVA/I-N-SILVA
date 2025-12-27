@@ -96,14 +96,14 @@ const silva = {
 </div>
 
 <!-- Add more featured projects here as you create them -->
-```markdown
+
 🔹 More projects coming soon! Stay tuned 🚀
-```
 
 ---
 
 ## 📫 Connect With Me
 
+<!-- 🔗 Update these links with your actual social media profiles -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -133,6 +133,12 @@ const silva = {
 ---
 
 ## 🐍 Contribution Snake
+
+<!-- 
+  Note: To enable the snake animation, you need to set up a GitHub Action.
+  Create .github/workflows/snake.yml with the snake generation workflow.
+  See: https://github.com/Platane/snk for setup instructions.
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I-N-SILVA/I-N-SILVA/output/github-contribution-grid-snake-dark.svg">
