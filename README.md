@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Silva!
 
-### 💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
+### 💻 Vibe coder | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
 
 > 💡 **Customize this README:** Update the placeholders in the social links section below with your actual profile URLs!
 
@@ -75,35 +75,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
   
 ![Trophies](https://github-profile-trophy.vercel.app/?username=I-N-SILVA&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
-</div>
-
----
-
-## 💼 What I'm Up To
-
-```javascript
-const silva = {
-    pronouns: "they/them",
-    code: ["JavaScript", "Python", "TypeScript", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "software architecture"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask", "FastAPI"]
-        },
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        devOps: ["Docker", "CI/CD", "GitHub Actions", "AWS"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Building scalable applications and learning cloud technologies",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
 ---
 
 ## 🌟 Featured Projects
@@ -126,11 +97,9 @@ const silva = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-n-silva/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourprofile)
 
 </div>
 
