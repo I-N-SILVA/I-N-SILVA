@@ -4,6 +4,8 @@
 
 ### 💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
 
+> 💡 **Customize this README:** Update the placeholders in the social links section below with your actual profile URLs!
+
 [![GitHub followers](https://img.shields.io/github/followers/I-N-SILVA?style=social)](https://github.com/I-N-SILVA)
 [![Profile Views](https://komarev.com/ghpvc/?username=I-N-SILVA&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/I-N-SILVA)
 
@@ -106,9 +108,11 @@ const silva = {
 
 ## 🌟 Featured Projects
 
+<!-- 👇 Replace with your actual project repositories -->
+
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=I-N-SILVA&repo=I-N-SILVA&theme=radical)](https://github.com/I-N-SILVA/I-N-SILVA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=I-N-SILVA&repo=your-awesome-project&theme=radical)](https://github.com/I-N-SILVA/your-awesome-project)
 
 </div>
 
@@ -117,6 +121,8 @@ const silva = {
 ---
 
 ## 📫 Let's Connect!
+
+<!-- 👇 Update these links with your actual social media profiles -->
 
 <div align="center">
 
