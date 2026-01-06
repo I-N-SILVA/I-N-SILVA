@@ -23,30 +23,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 - 🎯 Goal: Make meaningful contributions to the tech community
 - ⚡ Fun fact: I turn coffee into code! ☕➡️💻
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-N-SILVA&theme=radical&hide_border=true)
-
-</div>
----
-
-## 🌟 Featured Projects
-
-<!-- 👇 Replace with your actual project repositories -->
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=I-N-SILVA&repo=your-awesome-project&theme=radical)](https://github.com/I-N-SILVA/your-awesome-project)
-
-</div>
-
-> 💡 **Note:** Check out my repositories below to see more of my work!
-
----
-
 ## 📫 Let's Connect!
 
 <!-- 👇 Update these links with your actual social media profiles -->
@@ -56,20 +32,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-n-silva/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
 
