@@ -6,23 +6,6 @@
 <!-- TYPING ANIMATION — verified working -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=4000&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&lines=signal+detected+%40+iamnsilva.me;decoding+transmission...;ian.n.silva+%2F+full-stack+%2F+AI+automation;MVPs+that+feel+like+someone+meant+it;%E2%86%92+establish+contact" alt="Typing SVG" />
 
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   TRANSMISSION RECEIVED — SOURCE: UNKNOWN                    ║
-║   SIGNAL TYPE:  developer  /  builder  /  founder           ║
-║   ORIGIN:       Brazil  →  United Kingdom                   ║
-║   TIMESTAMP:    02:13:47                                     ║
-║   STATUS:       open for new builds                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
