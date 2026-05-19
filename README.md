@@ -1,7 +1,18 @@
 <!-- HERO BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,70:312e81,100:0f172a&height=200&section=header&text=IAN%20SILVA&fontColor=e2e8f0&fontAlignY=38&fontSize=42&fontStyle=bold&desc=founder%20%2F%20builder%20%2F%20operator&descAlignY=58&descSize=17&descColor=94a3b8&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,70:312e81,100:0f172a&height=180&section=header&text=IAN%20SILVA&fontColor=c0c0c0&fontAlignY=38&fontSize=42&fontStyle=bold&desc=founder%20%2F%20builder%20%2F%20operator&descAlignY=58&descSize=16&descColor=a0a0a0&animation=twinkling" />
+
+<br/>
+
+```
+███████╗██╗██╗    ██╗   ██╗ █████╗ 
+██╔════╝██║██║    ██║   ██║██╔══██╗
+███████╗██║██║    ██║   ██║███████║
+╚════██║██║██║    ╚██╗ ██╔╝██╔══██║
+███████║██║███████╗╚████╔╝ ██║  ██║
+╚══════╝╚═╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝
+```
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -10,28 +21,28 @@
 
 <br/>
 
-<!-- ANIMATED NAV BUTTONS -->
+<!-- NAV BUTTONS -->
 <p align="center">
   <a href="https://iamnsilva.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20WEBSITE-1e1b4b?style=for-the-badge&logoColor=c0c0c0&color=1e1b4b" alt="Website" />
+    <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20WEBSITE-1e1b4b?style=for-the-badge&logoColor=c0c0c0&labelColor=0f172a&color=312e81" alt="Website" />
   </a>&nbsp;
   <a href="https://plyaz.com" target="_blank">
-    <img src="https://img.shields.io/badge/⚽%20PLYAZ-312e81?style=for-the-badge&logoColor=white&color=312e81" alt="Plyaz" />
+    <img src="https://img.shields.io/badge/-%E2%9A%BD%20PLYAZ-4c1d95?style=for-the-badge&logoColor=white&labelColor=312e81&color=4c1d95" alt="Plyaz" />
   </a>&nbsp;
   <a href="https://twitter.com/iamnsilva" target="_blank">
-    <img src="https://img.shields.io/badge/𝕏%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+    <img src="https://img.shields.io/badge/-𝕏%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/iamnsilva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:ian@plyaz.com">
-    <img src="https://img.shields.io/badge/📩%20EMAIL-0f172a?style=for-the-badge&color=0f172a&logoColor=c0c0c0" alt="Email" />
+    <img src="https://img.shields.io/badge/-%F0%9F%93%A9%20EMAIL-0f172a?style=for-the-badge&color=0f172a&logoColor=c0c0c0" alt="Email" />
   </a>
 </p>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS LIVE BADGES -->
+<!-- PROFILE VIEWS + FOLLOWERS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=I-N-SILVA&style=flat-square&color=6366f1&label=profile+views" alt="Profile Views" />
   &nbsp;
@@ -66,105 +77,62 @@ I build at the intersection of **sport**, **technology**, and **community**. Cur
 
 ### 〔 SELECTED WORK 〕
 
-</div>
+<table border="0" cellpadding="8" cellspacing="0" width="100%" align="center">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<table border="0" cellpadding="12" cellspacing="0" width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Plyaz-Official">
-        <img src="https://img.shields.io/badge/⚽_PLYAZ-Platform-312e81?style=for-the-badge&labelColor=1e1b4b" />
-      </a>
-      <br/><br/>
-      <b>Football Player Platform</b>
-      <br/>
-      <sub>Semi-pro & released players · Scouts · Agents · Opportunities</sub>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/I-N-SILVA/folio">
-        <img src="https://img.shields.io/badge/◈_FOLIO-Portfolio-4f46e5?style=for-the-badge&labelColor=1e1b4b" />
-      </a>
-      <br/><br/>
-      <b>Personal Portfolio</b>
-      <br/>
-      <sub>Built sharp. No fluff.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/I-N-SILVA/Ines">
-        <img src="https://img.shields.io/badge/◈_INES-AI%20Project-7c3aed?style=for-the-badge&labelColor=1e1b4b" />
-      </a>
-      <br/><br/>
-      <b>Ines — AI Project</b>
-      <br/>
-      <sub>AI-powered. Work in progress.</sub>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/I-N-SILVA/terminal-dj">
-        <img src="https://img.shields.io/badge/◈_TERMINAL--DJ-Side%20Build-6366f1?style=for-the-badge&labelColor=1e1b4b" />
-      </a>
-      <br/><br/>
-      <b>terminal-dj</b>
-      <br/>
-      <sub>Side build. Because why not.</sub>
-    </td>
-  </tr>
+[![Plyaz](https://img.shields.io/badge/◈%20PLYAZ-Football%20Player%20Platform-4c1d95?style=for-the-badge&logoColor=white)](https://github.com/Plyaz-Official)
+
+Semi-pro & released players · Scouts · Agents · Opportunities
+
+</td>
+<td width="50%" valign="top" align="center">
+
+[![Folio](https://img.shields.io/badge/◈%20FOLIO-Personal%20Portfolio-312e81?style=for-the-badge&logoColor=white)](https://github.com/I-N-SILVA/folio)
+
+Built sharp. No fluff.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+[![Ines](https://img.shields.io/badge/◈%20INES-AI%20Project-1e1b4b?style=for-the-badge&logoColor=white)](https://github.com/I-N-SILVA/Ines)
+
+AI-powered. Work in progress.
+
+</td>
+<td width="50%" valign="top" align="center">
+
+[![terminal-dj](https://img.shields.io/badge/◈%20TERMINAL--DJ-Side%20Build-0f172a?style=for-the-badge&logoColor=white)](https://github.com/I-N-SILVA/terminal-dj)
+
+Side build. Because why not.
+
+</td>
+</tr>
 </table>
 
----
-
-<!-- TECH STACK -->
-<div align="center">
-
-### 〔 ARSENAL 〕
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,supabase,python&theme=dark&perline=4" alt="Tech Stack" />
-</a>
-
-<br/><br/>
-
-<!-- TOOLS -->
-<img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-7c3aed?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
-
 </div>
 
 ---
 
-<!-- STATS GRID -->
+<!-- OPERATOR STATS -->
 <div align="center">
 
 ### 〔 OPERATOR STATS 〕
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=I-N-SILVA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=c0c0c0&icon_color=6366f1&text_color=94a3b8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-N-SILVA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=c0c0c0&text_color=94a3b8" />
+
 <br/>
 
-<a href="https://github.com/I-N-SILVA">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=I-N-SILVA&show_icons=true&hide_border=true&bg_color=0f172a&title_color=c0c0c0&text_color=94a3b8&icon_color=6366f1&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/I-N-SILVA">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-N-SILVA&layout=compact&hide_border=true&bg_color=0f172a&title_color=c0c0c0&text_color=94a3b8&theme=dark&langs_count=6" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=I-N-SILVA&theme=transparent&hide_border=true&ring=6366f1&fire=c0c0c0&currStreakLabel=c0c0c0&sideLabels=94a3b8&dates=64748b&stroke=1e1b4b&background=0f172a" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=I-N-SILVA&theme=tokyonight&hide_border=true&background=0f172a&stroke=312e81&ring=6366f1&fire=c0c0c0&currStreakLabel=c0c0c0&sideLabels=94a3b8&dates=94a3b8" />
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
 ### 〔 CONTRIBUTION GRAPH 〕
@@ -179,13 +147,8 @@ I build at the intersection of **sport**, **technology**, and **community**. Cur
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
+<sub>currently building &nbsp;·&nbsp; always shipping &nbsp;·&nbsp; never stopping</sub>
 
-<sub>currently building · always shipping · never stopping</sub>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,70:312e81,100:0f172a&height=100&section=footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0f172a&height=80&section=footer" />
 </div>
