@@ -1,114 +1,191 @@
- <!-- HERO BANNER — silver/chrome focal point -->
-   2 <div align="center">
-   3
-   4 <img width="100%"
-     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,1
-     00:0f172a&height=180&section=header&text=IAN.EXE&fontColor=c0c0c0&fontAlignY=38&d
-     esc=founder%20%2F%20builder%20%2F%20operator&descAlignY=58&descSize=16&descColor=
-     a0a0a0&animation=twinkling" />
-   5
-   6 <br/>
-  ███████╗██╗██╗    ██╗   ██╗ █████╗ 
-  ██╔════╝██║██║    ██║   ██║██╔══██╗
-  ███████╗██║██║    ██║   ██║███████║
-  ╚════██║██║██║    ╚██╗ ██╔╝██╔══██║
-  ███████║██║███████╗╚████╔╝ ██║  ██║
-  ╚══════╝╚═╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝
+<!-- HERO BANNER -->
+<div align="center">
 
-    1
-    2 <!-- IDENTITY -->
-    3 **`> PRESS START_`**
-    4
-    5 <br/>
-    6
-    7 Founder at [Plyaz](https://plyaz.com) &nbsp;·&nbsp; Building products with
-      taste, speed, and intention &nbsp;·&nbsp; Brazil → UK
-    8
-    9 <br/>
-   10
-   11 <!-- NAV BUTTONS -->
-   12 <p align="center">
-   13   <a href="https://iamnsilva.me"><img
-      src="https://img.shields.io/badge/◈_WEBSITE-0f172a?style=for-the-badge&logoColor
-      =c0c0c0&labelColor=1e1b4b&color=0f172a" alt="Website" /></a>
-   14   <a href="https://plyaz.com"><img
-      src="https://img.shields.io/badge/◈_PLYAZ-0f172a?style=for-the-badge&logoColor=c
-      0c0c0&labelColor=1e1b4b&color=0f172a" alt="Plyaz" /></a>
-   15   <a href="https://iamnsilva.me"><img
-      src="https://img.shields.io/badge/◈_CONTACT-0f172a?style=for-the-badge&logoColor
-      =c0c0c0&labelColor=1e1b4b&color=0f172a" alt="Contact" /></a>
-   16 </p>
-   17
-   18 <br/>
-   19
-   20 ---
-   21
-   22 <!-- SELECTED WORK (Upgraded from Markdown Table to HTML Grid) -->
-   23 ### ░ SELECTED WORK
-   24
-   25 <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-   26   <tr>
-   27     <td width="50%" valign="top">
-   28       <h4><a href="https://github.com/Plyaz-Official">◈ Plyaz</a></h4>
-   29       <p>Platform for semi-pro & released football players.</p>
-   30     </td>
-   31     <td width="50%" valign="top">
-   32       <h4><a href="https://github.com/I-N-SILVA/folio">◈ Folio</a></h4>
-   33       <p>Personal portfolio, built sharp.</p>
-   34     </td>
-   35   </tr>
-   36   <tr>
-   37     <td width="50%" valign="top">
-   38       <h4><a href="https://github.com/I-N-SILVA/Ines">◈ Ines</a></h4>
-   39       <p>AI-powered project.</p>
-   40     </td>
-   41     <td width="50%" valign="top">
-   42       <h4><a href="https://github.com/I-N-SILVA/terminal-dj">◈
-      terminal-dj</a></h4>
-   43       <p>Side build. Because why not.</p>
-   44     </td>
-   45   </tr>
-   46 </table>
-   47
-   48 <br/>
-   49
-   50 ---
-   51
-   52 <!-- ARSENAL & STATS -->
-   53 <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-   54   <tr>
-   55     <td width="50%" align="center">
-   56       <h3>░ ARSENAL</h3>
-   57       <br/>
-   58       <!-- Note: Change the 'i=' values to match your actual stack -->
-   59       <a href="https://skillicons.dev">
-   60         <img
-      src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres&the
-      me=dark&perline=3" alt="Tech Stack" />
-   61       </a>
-   62     </td>
-   63     <td width="50%" align="center">
-   64       <h3>░ OPERATOR STATS</h3>
-   65       <br/>
-   66       <a href="https://github.com/I-N-SILVA">
-   67         <img
-      src="https://github-readme-stats.vercel.app/api?username=I-N-SILVA&show_icons=tr
-      ue&hide_border=true&bg_color=0f172a&title_color=c0c0c0&text_color=a0a0a0&icon_co
-      lor=c0c0c0&theme=dark" alt="GitHub Stats" />
-   68       </a>
-   69     </td>
-   70   </tr>
-   71 </table>
-   72
-   73 <br/>
-   74
-   75 ---
-   76
-   77 <!-- FOOTER -->
-   78 <sub>currently building · always shipping</sub>
-   79
-   80 <img width="100%"
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,
-      100:0f172a&height=80&section=footer" />
-   81
-   82 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,70:312e81,100:0f172a&height=200&section=header&text=IAN%20SILVA&fontColor=e2e8f0&fontAlignY=38&fontSize=42&fontStyle=bold&desc=founder%20%2F%20builder%20%2F%20operator&descAlignY=58&descSize=17&descColor=94a3b8&animation=twinkling" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=C0C0C0&center=true&vCenter=true&multiline=false&width=600&lines=Building+Plyaz+%E2%80%94+the+football+player+platform.;Founder+%2F+Builder+%2F+Operator.;Brazil+%E2%86%92+UK.+Always+shipping." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ANIMATED NAV BUTTONS -->
+<p align="center">
+  <a href="https://iamnsilva.me" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20WEBSITE-1e1b4b?style=for-the-badge&logoColor=c0c0c0&color=1e1b4b" alt="Website" />
+  </a>&nbsp;
+  <a href="https://plyaz.com" target="_blank">
+    <img src="https://img.shields.io/badge/⚽%20PLYAZ-312e81?style=for-the-badge&logoColor=white&color=312e81" alt="Plyaz" />
+  </a>&nbsp;
+  <a href="https://twitter.com/iamnsilva" target="_blank">
+    <img src="https://img.shields.io/badge/𝕏%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/iamnsilva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:ian@plyaz.com">
+    <img src="https://img.shields.io/badge/📩%20EMAIL-0f172a?style=for-the-badge&color=0f172a&logoColor=c0c0c0" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS LIVE BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=I-N-SILVA&style=flat-square&color=6366f1&label=profile+views" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/I-N-SILVA?style=flat-square&color=6366f1&label=followers" alt="Followers" />
+</p>
+
+</div>
+
+---
+
+<!-- ABOUT -->
+<div align="center">
+
+### 〔 WHO AM I 〕
+
+</div>
+
+```
+> whoami
+  Ian Silva — Founder & CEO at Plyaz
+  Building the platform for released & semi-pro football players
+  Connecting players with scouts, agents, and opportunities
+  Based in UK · Roots in Brazil · Shipping globally
+```
+
+I build at the intersection of **sport**, **technology**, and **community**. Currently heads-down on [Plyaz](https://plyaz.com) — a platform giving released and semi-pro football players a real shot at visibility. Everything I build is fast, opinionated, and designed with taste.
+
+---
+
+<!-- SELECTED WORK -->
+<div align="center">
+
+### 〔 SELECTED WORK 〕
+
+</div>
+
+<table border="0" cellpadding="12" cellspacing="0" width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Plyaz-Official">
+        <img src="https://img.shields.io/badge/⚽_PLYAZ-Platform-312e81?style=for-the-badge&labelColor=1e1b4b" />
+      </a>
+      <br/><br/>
+      <b>Football Player Platform</b>
+      <br/>
+      <sub>Semi-pro & released players · Scouts · Agents · Opportunities</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/I-N-SILVA/folio">
+        <img src="https://img.shields.io/badge/◈_FOLIO-Portfolio-4f46e5?style=for-the-badge&labelColor=1e1b4b" />
+      </a>
+      <br/><br/>
+      <b>Personal Portfolio</b>
+      <br/>
+      <sub>Built sharp. No fluff.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/I-N-SILVA/Ines">
+        <img src="https://img.shields.io/badge/◈_INES-AI%20Project-7c3aed?style=for-the-badge&labelColor=1e1b4b" />
+      </a>
+      <br/><br/>
+      <b>Ines — AI Project</b>
+      <br/>
+      <sub>AI-powered. Work in progress.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/I-N-SILVA/terminal-dj">
+        <img src="https://img.shields.io/badge/◈_TERMINAL--DJ-Side%20Build-6366f1?style=for-the-badge&labelColor=1e1b4b" />
+      </a>
+      <br/><br/>
+      <b>terminal-dj</b>
+      <br/>
+      <sub>Side build. Because why not.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- TECH STACK -->
+<div align="center">
+
+### 〔 ARSENAL 〕
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,supabase,python&theme=dark&perline=4" alt="Tech Stack" />
+</a>
+
+<br/><br/>
+
+<!-- TOOLS -->
+<img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-7c3aed?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
+
+</div>
+
+---
+
+<!-- STATS GRID -->
+<div align="center">
+
+### 〔 OPERATOR STATS 〕
+
+<br/>
+
+<a href="https://github.com/I-N-SILVA">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=I-N-SILVA&show_icons=true&hide_border=true&bg_color=0f172a&title_color=c0c0c0&text_color=94a3b8&icon_color=6366f1&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/I-N-SILVA">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-N-SILVA&layout=compact&hide_border=true&bg_color=0f172a&title_color=c0c0c0&text_color=94a3b8&theme=dark&langs_count=6" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=I-N-SILVA&theme=transparent&hide_border=true&ring=6366f1&fire=c0c0c0&currStreakLabel=c0c0c0&sideLabels=94a3b8&dates=64748b&stroke=1e1b4b&background=0f172a" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+
+### 〔 CONTRIBUTION GRAPH 〕
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I-N-SILVA/I-N-SILVA/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/I-N-SILVA/I-N-SILVA/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/I-N-SILVA/I-N-SILVA/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<sub>currently building · always shipping · never stopping</sub>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,70:312e81,100:0f172a&height=100&section=footer" />
+
+</div>
