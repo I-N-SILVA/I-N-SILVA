@@ -24,13 +24,13 @@
 <!-- NAV BUTTONS -->
 <p align="center">
   <a href="https://iamnsilva.me" target="_blank">
-    <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20WEBSITE-1e1b4b?style=for-the-badge&logoColor=c0c0c0&labelColor=0f172a&color=312e81" alt="Website" />
+    <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20WEBSITE-312e81?style=for-the-badge&logoColor=c0c0c0&labelColor=1e1b4b&color=312e81" alt="Website" />
   </a>&nbsp;
   <a href="https://plyaz.com" target="_blank">
     <img src="https://img.shields.io/badge/-%E2%9A%BD%20PLYAZ-4c1d95?style=for-the-badge&logoColor=white&labelColor=312e81&color=4c1d95" alt="Plyaz" />
   </a>&nbsp;
   <a href="https://twitter.com/iamnsilva" target="_blank">
-    <img src="https://img.shields.io/badge/-𝕏%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+    <img src="https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/iamnsilva" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -69,6 +69,17 @@
 ```
 
 I build at the intersection of **sport**, **technology**, and **community**. Currently heads-down on [Plyaz](https://plyaz.com) — a platform giving released and semi-pro football players a real shot at visibility. Everything I build is fast, opinionated, and designed with taste.
+
+---
+
+<!-- CURRENTLY BUILDING -->
+### 〔 CURRENTLY BUILDING 〕
+
+| 🔨 What | ⚡ Stack | 📍 Stage | 🎯 Goal |
+|---|---|---|---|
+| [Plyaz](https://plyaz.com) — Football Player Platform | Next.js · Supabase · TypeScript | MVP → Beta | Connect players to scouts & agents |
+| terminal-dj | Rust · Audio | Side project | Music in the terminal |
+| Ines | TypeScript · AI | WIP | AI-powered tool |
 
 ---
 
@@ -116,12 +127,23 @@ Side build. Because why not.
 
 ---
 
+<!-- TROPHIES -->
+<div align="center">
+
+### 〔 TROPHIES 〕
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=I-N-SILVA&theme=onestar&no-bg=true&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 <!-- OPERATOR STATS -->
 <div align="center">
 
 ### 〔 OPERATOR STATS 〕
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=I-N-SILVA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=c0c0c0&icon_color=6366f1&text_color=94a3b8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=I-N-SILVA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=c0c0c0&icon_color=6366f1&text_color=94a3b8&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-N-SILVA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=c0c0c0&text_color=94a3b8" />
 
 <br/>
