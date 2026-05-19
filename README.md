@@ -1,8 +1,5 @@
 <!-- HERO BANNER -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,70:312e81,100:0f172a&height=180&section=header&text=IAN%20SILVA&fontColor=c0c0c0&fontAlignY=38&fontSize=42&fontStyle=bold&desc=founder%20%2F%20builder%20%2F%20operator&descAlignY=58&descSize=16&descColor=a0a0a0&animation=twinkling" />
-
 <br/>
 
 ```
