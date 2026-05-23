@@ -71,8 +71,6 @@
 <!-- SPOTIFY NOW PLAYING -->
 <div align="center">
 
-### 🎵 Now Playing
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316dovkz65zphnm6jfqvwltzhffa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
