@@ -73,7 +73,7 @@
 
 ### 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.kittinan.dev/api/spotify?uid=YOUR_UID)](https://open.spotify.com/user/YOUR_UID)
+[![Spotify](https://spotify-github-profile.kittinan.dev/api/spotify?uid=316dovkz65zphnm6jfqvwltzhffa)](https://open.spotify.com/user/316dovkz65zphnm6jfqvwltzhffa)
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0f172a&height=80&section=footer" />
